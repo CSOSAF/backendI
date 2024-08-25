@@ -1,0 +1,15 @@
+Errores comunes relacionados con el proceso de compra:
+
+Al añadir productos al carrito:
+El carrito no está disponible.
+El producto no está registrado en la base de datos.
+Al crear un producto:
+Falta algún campo obligatorio en el formulario.
+Se está intentando crear un producto que ya existe en la base de datos.
+Al modificar un producto:
+El producto no está registrado en la base de datos.
+Se está intentando asignar un código que ya pertenece a otro producto.
+Al eliminar un producto:
+El producto no está registrado en la base de datos.
+Al completar una compra:
+No hay suficiente inventario para uno o más productos.
